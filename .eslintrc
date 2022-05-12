@@ -30,6 +30,8 @@
         "import/no-unresolved": "off",
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", "tsx"] }],
         "react/jsx-indent-props": "off",
-        "react/jsx-props-no-spreading": "off"
+        "react/jsx-props-no-spreading": "off",
+        "react/require-default-props": "off",
+        "react/no-unescaped-entities": "warn"
     }
 }
